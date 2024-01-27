@@ -1,0 +1,1 @@
+import '/node_modules/@webcomponents/webcomponentsjs/webcomponents-bundle.js'
