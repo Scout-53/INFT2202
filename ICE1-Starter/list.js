@@ -8,7 +8,7 @@ let list = document.getElementById("thelist");
 // Create element
 let element = document.createElement("li");
 // Create text node
-let text = document.createTextNode("cream");
+let text = document.createTextNode("Ice Cream");
 // Add text node to element
 element.appendChild(text);
 // Add element end of list
@@ -19,7 +19,7 @@ list.appendChild(element);
 // Create element
 element = document.createElement("li");
 // Create text node
-text = document.createTextNode("spinach");
+text = document.createTextNode("Basmati Rice");
 // Add text node to element
 element.appendChild(text);
 // Add element to list
