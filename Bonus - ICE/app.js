@@ -17,7 +17,7 @@ app.get('/', (req, res) => {
 
 // Route for funniest JS meme
 app.get('/funniest-meme', (req, res) => {
-  // You can replace this with your funniest JS meme URL
+  
   res.send(`
     <h1>Funniest JS Meme</h1>
     <img src="https://example.com/funniest-meme.jpg" alt="Funniest JS Meme">
